@@ -1,0 +1,126 @@
+body {
+  font-size: 0px;
+  margin: 10px;
+  height: 100%;
+  background: #7A7B74;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.headOfApp {
+  height: 70px;
+  width: 900px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  border: 5px solid #000000;
+  font-size: 0px;
+  background: url(old_paper_1.jpg);
+  margin: auto;
+}
+
+.headText {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  font-family: 'Caveat Brush', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+.statPlace {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  width: 900px;
+  height: 84px;
+  border: 5px solid #000000;
+  font-size: 0px;
+  margin: auto;
+  background: url(old_paper_1.jpg);
+}
+
+.life {
+  margin: 15px 0px 15px 15px;
+  padding: 0px 0px 0px 0px;
+  display: inline-block;
+  vertical-align: top;
+  width: 60px;
+  height: 50px;
+  font-size: 0px;
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.life_2 {
+  margin: 15px 15px 15px 0px;
+  padding: 0px 0px 0px 0px;
+  display: inline-block;
+  vertical-align: top;
+  width: 212px;
+  height: 50px;
+  font-size: 0px;
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.money {
+  margin: 15px 0px 15px 0px;
+  padding: 0px 0px 0px 0px;
+  display: inline-block;
+  vertical-align: top;
+  width: 100px;
+  height: 50px;
+  font-size: 0px;
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.money_2 {
+  margin: 15px 0px 15px 0px;
+  padding: 0px 0px 0px 0px;
+  display: inline-block;
+  vertical-align: top;
+  width: 175px;
+  height: 50px;
+  font-size: 0px;
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.exp {
+  margin: 15px 15px 15px 15px;
+  padding: 0px 0px 0px 0px;
+  display: inline-block;
+  vertical-align: top;
+  width: 275px;
+  height: 50px;
+  font-size: 0px;
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.statsText {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  font-family: 'Caveat Brush', cursive;
+  font-size: 30px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.statsStatus {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  font-size: 30px;
+  font-family: 'Caveat Brush', cursive;
+  text-align: right;
+  vertical-align: top;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///
